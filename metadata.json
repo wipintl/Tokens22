@@ -1,0 +1,16 @@
+{
+  "name": "WIPS",
+  "symbol": "WIPS",
+  "description": "WIPS token",
+  "image": "https://raw.githubusercontent.com/wipintl/Tokens22/main/logo.png",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/wipintl/Tokens22/main/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
